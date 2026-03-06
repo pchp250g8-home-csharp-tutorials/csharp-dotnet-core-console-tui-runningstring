@@ -9,7 +9,7 @@ var nStrLen = strLine.Length - 80;
 do
 {
     strSpaces = strLine.Substring(nCounter, 80);
-    Console.SetCursorPosition(10, 10);
+    Console.SetCursorPosition(1, 1);
     Console.Write(strSpaces);
     Thread.Sleep(140);
     nCounter++;
