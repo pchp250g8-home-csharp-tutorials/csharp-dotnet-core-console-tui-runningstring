@@ -14,7 +14,7 @@ The program does the following:
       9.3. The program pauses for 140 milliseconds.
       9.4. The counter variable is incremented by 1. If its value is greater than the length of the second string, it is set to 0.
       9.5. The loop condition is checked to see if any key is pressed. If not, the loop continues and terminates otherwise.
-  10. Unloads the PDCurses library and exits.
+  10. Exits.
 
 RunningString. Занятия по С#. Расширинные возможности консоли. Платформа DotNet Core. Текстовый интерфейс пользователя. Консольное приложение.
 Программа делает следующее:
